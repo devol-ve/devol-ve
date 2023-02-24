@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devol-ve
 - 👀 I’m interested in machine learning, mobile app development, game development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning ReactNative, NodeJS
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me devol.ve@outlook.com
 
