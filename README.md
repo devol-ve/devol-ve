@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devol-ve
+- 👋 Hi, I’m Devon Lattery
 - 👀 I’m interested in machine learning, mobile app development, game development
-- 🌱 I’m currently learning ReactNative, NodeJS
+- 🌱 I’m currently learning RLang, 68000 Assembly
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me devol.ve@outlook.com
 
